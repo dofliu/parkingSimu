@@ -1,0 +1,15 @@
+{
+  "name": "parking-simu",
+  "version": "0.0.0",
+  "license": "LICENSE",
+  "tech_stack": ["Vite", "React", "TypeScript"],
+  "description": {
+    "zh": "以 Vite + React 建置的停車場模擬前端專案。",
+    "en": "A Vite + React front-end project for parking-lot simulation."
+  },
+  "installation": {
+    "zh": ["npm install", "npm run dev"],
+    "en": ["npm install", "npm run dev"]
+  },
+  "repository": "local"
+}
